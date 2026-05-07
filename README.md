@@ -40,7 +40,7 @@ Main features:
 
 ### Game 2: Dodge Dash
 
-Dodge Dash was developed by **YI CHENG CHE**.
+Dodge Dash was developed by **YICHENG CHE**.
 
 This game is a fast reaction dodging game. The player controls a small character and tries to avoid falling obstacles for as long as possible. The longer the player survives, the higher the score becomes.
 
